@@ -1,0 +1,18 @@
+.categories{
+
+}
+.categories>a{
+    color:inherit;
+    text-decoration: none;
+    margin-top: 15px;
+    display:block;
+}
+.footer{
+    background-color:#e6e6e6;
+}
+.footer>a{
+    color:inherit;
+    text-decoration:none;
+    font-size:18px;
+    margin-left:20px;
+}
